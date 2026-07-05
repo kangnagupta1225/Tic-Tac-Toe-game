@@ -8,8 +8,8 @@ https://kangnagupta1225.github.io/Tic-Tac-Toe-game/
 
 Screenshot
 
-![Tic-Tac-Toe Screenshot](screenshot.png)
-![Tic-Tac-Toe Screenshot](screenshot1.png)
+![Tic-Tac-Toe Screenshot](Screenshot.png)
+![Tic-Tac-Toe Screenshot](Screenshot1.png)
 
 Features
 
