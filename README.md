@@ -33,9 +33,10 @@ Tic-Tac-Toe-game/
 │
 ├── index.html
 ├── style.css
-├── script.js
+├── index.js
 ├── images/
 │   └── screenshot.png
+│   └── screenshot1.png
 └── README.md
 ```
 
