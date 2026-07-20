@@ -4,7 +4,7 @@ A classic Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**. The game f
 
 Live Demo
 
-https://kangnagupta1225.github.io/Tic-Tac-Toe-game/
+https://kangnasync.github.io/Tic-Tac-Toe-game/
 
 Screenshot
 
